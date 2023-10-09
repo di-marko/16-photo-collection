@@ -1,0 +1,67 @@
+{
+  "categories": [
+    { "name": "All" },
+    { "name": "Beach" },
+    { "name": "Mountains" },
+    { "name": "Architecture" },
+    { "name": "Cities" }
+  ],
+  "collections": [
+    {
+      "id": 1,
+      "category": "mountains",
+      "name": "Sierra Nevada Range",
+      "photos": [
+        "https://images.unsplash.com/photo-1486870591958-9b9d0d1dda99?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+      ]
+    },
+    {
+      "id": 2,
+      "category": "beach",
+      "name": "North Shore of Oahu, Hawaii",
+      "photos": [
+        "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1173&q=80"
+      ]
+    },
+    {
+      "id": 3,
+      "category": "architecture",
+      "name": "Constitution Square, Canada",
+      "photos": [
+        "https://images.unsplash.com/photo-1511818966892-d7d671e672a2?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+      ]
+    },
+    {
+      "id": 4,
+      "category": "architecture",
+      "name": "Frankfurt, Germany",
+      "photos": [
+        "https://images.unsplash.com/photo-1493397212122-2b85dda8106b?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1171&q=80"
+      ]
+    },
+    {
+      "id": 5,
+      "category": "architecture",
+      "name": "The Zentrum Paul Klee",
+      "photos": [
+        "https://images.unsplash.com/photo-1496564203457-11bb12075d90?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=950&q=80"
+      ]
+    },
+    {
+      "id": 6,
+      "category": "cities",
+      "name": "Tokyo, Japan",
+      "photos": [
+        "https://images.unsplash.com/photo-1555397430-57791c75748a?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1170&q=80"
+      ]
+    },
+    {
+      "id": 7,
+      "category": "mountains",
+      "name": "Crescent City, California",
+      "photos": [
+        "https://images.unsplash.com/photo-1456428199391-a3b1cb5e93ab?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1032&q=80"
+      ]
+    }
+  ]
+}
